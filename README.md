@@ -1,4 +1,4 @@
-# evo-home-task
+# Scala Bootcamp_Home task
 Algorithm for comparing the strength of Texas Hold'em Hands.
 ## Installation
 * [Java](https://java.com/en/download/)
